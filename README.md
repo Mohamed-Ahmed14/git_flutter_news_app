@@ -1,16 +1,10 @@
 # news_app
 
-A new Flutter project.
+News Application that shows the news about three categories the app include tab bar consists of three tabs each tab reviews the one category the categories are business, technology and sports.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240404-072322](https://github.com/Mohamed-Ahmed14/git_flutter_news_app/assets/152717421/ded9c55d-fb87-4596-8e19-5f9d627f6c9d)
+![Screenshot_20240404-072341](https://github.com/Mohamed-Ahmed14/git_flutter_news_app/assets/152717421/9731eccc-3fb2-4d6b-b100-25f3b98e574d)
+![Screenshot_20240404-072356](https://github.com/Mohamed-Ahmed14/git_flutter_news_app/assets/152717421/c4dcaff0-dda9-4aee-8298-b58f1d220d99)
